@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "paperswithcode",
+  "versions": [
+    {
+      "commit": "875014151b3864e5f97c626b2f8c794c86e30b04",
+      "tag": "",
+      "parsed_at": "2026-11-07T22:27:44.355232+00:00"
+    }
+  ]
+}
